@@ -1,0 +1,16 @@
+4 2
+Jug1 NP Jug2 NP
+4 2
+NP NP NP NP
+4 2
+NP NP Jug1 Jug2
+8 3
+NP Jug1 NP NP Jug2 Jug3 Jug4 NP
+8 2
+Jug1 Jug2 NP NP Jug3 NP Jug4 NP
+8 1
+Jug1 Jug2 Jug3 Jug4 Jug5 Jug6 Jug7 Jug8
+8 2
+Jug1 Jug2 Jug3 Jug4 Jug5 Jug6 Jug7 Jug8
+8 3
+Jug1 Jug2 Jug3 Jug4 Jug5 Jug6 Jug7 Jug8

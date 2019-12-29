@@ -1,0 +1,18 @@
+7
+6 3 d 1 z 1
+r d z e d z
+7 3 e 2 j 1
+e j e r e e j
+5 2 r 1 z 0
+d z j r e
+7 4 z 2 r 1
+z r d z z r e
+
+6 2 d 1 r 1
+d r z z r d
+
+6 6 d 6 r 0
+d d d d d d
+
+6 2 d 0 r 0
+e e e e e e
